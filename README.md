@@ -23,7 +23,9 @@ This script ranks the performance of different GhostBSD package repository mirro
     ```bash
     make
     ```
-
+    ```bash
+    sudo make install
+   ```
     This will compile the Python script into an executable and place it in /usr/local/bin/.
 
 
